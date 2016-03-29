@@ -1,7 +1,7 @@
 # tjol's Toy Notebooks
 
 This repository is a place for me to keep [Jupyter][] notebooks looking at 
-quatitative questions I happen to find interesting at the time.
+quantitative questions I happen to find interesting at the time.
 
 Jupyter notebooks can be [viewed online][nbviewer] using the Jupyter NBviewer.
 

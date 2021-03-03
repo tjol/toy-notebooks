@@ -7,7 +7,7 @@ Jupyter notebooks can be [viewed online][nbviewer] using the Jupyter NBviewer.
 
 ## Copying
 
-**© 2016–2018 Thomas Jollans**
+**© 2016–2021 Thomas Jollans**
 
 Unless otherwise stated, the contents of this repository is licensed under a
 [Creative Commons Attribution 4.0 International License][ccby] (CC-BY)
